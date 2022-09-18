@@ -1,6 +1,6 @@
 # snake-game
 
-This is a simple snake game written in javascript using dom.
+This is a simple snake game written in javascript using dom & html canvas.
 
 ## How to play
 
